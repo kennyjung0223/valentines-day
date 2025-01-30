@@ -1,0 +1,2 @@
+body{align-items:center;background-color:#ffebee;display:flex;font-family:Arial,sans-serif;height:100vh;justify-content:center;margin:0;text-align:center}@keyframes fall{0%{transform:translateY(-100px)}to{transform:translateY(100vh)}}.rose{animation:fall 5s linear infinite;filter:drop-shadow(2px 2px 4px rgba(0,0,0,.3));height:auto;position:absolute;top:-150px;width:50px}
+/*# sourceMappingURL=main.9b693368.css.map*/
