@@ -32,7 +32,7 @@ function App() {
       }}
     >
       <img
-        src={isNo ? "/images/sad-dog.jpg" : "/images/dog.jpg"} // Replace with your dog image paths
+        src={isNo ? "/valentines-day/images/sad-dog.jpg" : "/valentines-day/images/dog.jpg"} // Replace with your dog image paths
         alt="Dog"
         style={{ width: '200px', marginBottom: '20px' }}
       />
@@ -108,7 +108,7 @@ function App() {
           {Array.from({ length: 20 }).map((_, index) => (
             <img
               key={index}
-              src="/images/rose.png" // Replace with your rose image path
+              src="/valentines-day/images/rose.png" // Replace with your rose image path
               alt="Rose"
               className="rose"
               style={{
