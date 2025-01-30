@@ -20,6 +20,5 @@ body {
   height: auto;
   animation: fall 5s linear infinite;
   top: -150px; /* Start further off-screen to account for scaling */
-  transform: scale(1.5); /* Enlarge the roses */
   filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));
 }
